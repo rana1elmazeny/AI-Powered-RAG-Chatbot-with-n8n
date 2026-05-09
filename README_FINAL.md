@@ -147,7 +147,7 @@ gpt-4o-mini
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/rana1elmazeny/AI-Powered-RAG-Chatbot-with-n8n.git
 cd YOUR_REPO
 ```
 
